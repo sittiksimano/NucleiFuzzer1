@@ -27,7 +27,7 @@ home_dir=$(eval echo ~$USER)
 # Check if ParamSpider is already cloned and installed
 if [ ! -d "$home_dir/ParamSpider" ]; then
     echo "Cloning ParamSpider..."
-    git clone https://github.com/0xKayala/ParamSpider "$home_dir/ParamSpider"
+    git clone https://github.com/sittiksimano/ParamSpider "$home_dir/ParamSpider"
 fi
 
 # Check if fuzzing-templates is already cloned.
