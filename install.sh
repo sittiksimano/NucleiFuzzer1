@@ -15,4 +15,4 @@ if [ -d "$home_dir/NucleiFuzzer" ]; then
     rm -r "$home_dir/NucleiFuzzer"
 fi
 
-echo "NucleiFuzzer has been installed successfully! Now Enter the command 'nucleifuzzer' to run the tool."
+echo "NucleiFuzzer has been placed successfully! Now Enter the command 'nucleifuzzer' to run the tool."
